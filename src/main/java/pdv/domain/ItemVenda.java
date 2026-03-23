@@ -1,4 +1,4 @@
-package main.java.pdv;
+package main.java.pdv.domain;
 
 import java.math.BigDecimal;
 
