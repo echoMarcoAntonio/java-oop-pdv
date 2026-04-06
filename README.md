@@ -10,4 +10,4 @@ Sistema de Ponto de Venda desenvolvido para experimentação e fixação de conc
 ```bash
 cd src/
 javac main/java/pdv/exception/**/*.java main/java/pdv/*.java
-java main.java.pdv.domain.Main
+java domain.br.com.pdv.ses.Main
